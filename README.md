@@ -42,6 +42,10 @@ enregistre toutes les cartes automatiquement. Tu ajoutes l'intégration, tu red�
     <td align="center"><img src="images/shutters-swing.jpg" width="420"><br><b>Volets battants</b></td>
     <td align="center"><img src="images/shutters-velux.jpg" width="420"><br><b>Velux &amp; store banne</b></td>
   </tr>
+  <tr>
+    <td align="center"><img src="images/presence.jpg" width="420"><br><b>Présence famille &amp; véhicules</b></td>
+    <td align="center"><img src="images/health.jpg" width="420"><br><b>Santé</b></td>
+  </tr>
 </table>
 
 *Galerie enrichie au fil des versions.*
