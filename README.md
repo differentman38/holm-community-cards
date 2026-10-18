@@ -15,41 +15,6 @@
 enregistre toutes les cartes automatiquement. Tu ajoutes l'intégration, tu redémarres, et les
 `custom:holm-*-card` sont disponibles dans tes tableaux de bord.
 
-## Aperçu
-
-<table>
-  <tr>
-    <td align="center"><img src="images/summary-card.jpg" width="420"><br><b>Résumé maison</b></td>
-    <td align="center"><img src="images/waterheater.jpg" width="420"><br><b>Chauffe-eau</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/fire.jpg" width="420"><br><b>Incendie</b> <sub>(état de démonstration)</sub></td>
-    <td align="center"><img src="images/water-leak.jpg" width="420"><br><b>Fuite d'eau</b> <sub>(démo)</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/co.jpg" width="420"><br><b>Monoxyde de carbone</b> <sub>(démo)</sub></td>
-    <td align="center"><img src="images/alarm.jpg" width="420"><br><b>Alarme</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/motion.jpg" width="420"><br><b>Mouvement / présence</b></td>
-    <td align="center"><img src="images/mailbox.jpg" width="420"><br><b>Boîte aux lettres</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/lights.jpg" width="420"><br><b>Lumières</b></td>
-    <td align="center"><img src="images/thermo.jpg" width="420"><br><b>Thermomètres</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/shutters-swing.jpg" width="420"><br><b>Volets battants</b></td>
-    <td align="center"><img src="images/shutters-velux.jpg" width="420"><br><b>Velux &amp; store banne</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/presence.jpg" width="420"><br><b>Présence famille &amp; véhicules</b></td>
-    <td align="center"><img src="images/health.jpg" width="420"><br><b>Santé</b></td>
-  </tr>
-</table>
-
-*Galerie enrichie au fil des versions.*
-
 ## ⭐ Crédits & périmètre
 
 Ce pack **n'est pas le projet HOLM officiel** et n'y est pas affilié. Les cartes HOLM d'origine
