@@ -1,0 +1,12 @@
+{
+  "domain": "holm_community_cards",
+  "name": "Cartes HOLM — pack communautaire",
+  "version": "0.1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/differentman38/holm-community-cards",
+  "issue_tracker": "https://github.com/differentman38/holm-community-cards/issues",
+  "codeowners": ["@differentman38"],
+  "dependencies": ["http", "frontend"],
+  "integration_type": "service",
+  "iot_class": "local_push"
+}

@@ -1,0 +1,6 @@
+{
+  "config": {
+    "step": { "user": { "title": "Cartes HOLM (communauté)", "description": "Ajoute toutes les cartes du pack. Aucun réglage nécessaire." } },
+    "abort": { "already_configured": "Le pack est déjà installé." }
+  }
+}
