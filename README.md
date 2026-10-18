@@ -15,6 +15,43 @@
 enregistre toutes les cartes automatiquement. Tu ajoutes l'intégration, tu redémarres, et les
 `custom:holm-*-card` sont disponibles dans tes tableaux de bord.
 
+## Aperçu
+
+<table>
+  <tr>
+    <td align="center"><img src="images/summary.jpg" width="420"><br><b>Résumé maison</b></td>
+    <td align="center"><img src="images/waterheater.jpg" width="420"><br><b>Chauffe-eau</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/water-leak.jpg" width="420"><br><b>Fuite d'eau</b> <sub>(état de démonstration)</sub></td>
+    <td align="center"><img src="images/lights.jpg" width="420"><br><b>Lumières</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/thermo.jpg" width="420"><br><b>Thermomètres</b></td>
+    <td align="center"><img src="images/coffee.jpg" width="420"><br><b>Machine à café</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/rain.jpg" width="420"><br><b>Pluie</b></td>
+    <td align="center"><img src="images/vacuum.jpg" width="420"><br><b>Aspirateur (Dreame)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/salt.jpg" width="420"><br><b>Adoucisseur</b></td>
+    <td align="center"><img src="images/modes.jpg" width="420"><br><b>Modes (sélecteurs)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/fan.jpg" width="420"><br><b>Ventilateurs</b></td>
+    <td align="center"><img src="images/cost.jpg" width="420"><br><b>Coûts maison</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/waste.jpg" width="420"><br><b>Déchets · levées</b></td>
+    <td align="center"><img src="images/doorbell.jpg" width="420"><br><b>Sonnette &amp; accès</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/presence.jpg" width="420"><br><b>Présence famille &amp; véhicules</b></td>
+    <td align="center"><img src="images/health.jpg" width="420"><br><b>Santé</b></td>
+  </tr>
+</table>
+
 ## ⭐ Crédits & périmètre
 
 Ce pack **n'est pas le projet HOLM officiel** et n'y est pas affilié. Les cartes HOLM d'origine
